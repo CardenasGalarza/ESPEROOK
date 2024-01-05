@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='giandb',
+    name='ESPEROOK',
     version='0.0.2',  # Cambia la versión a la nueva
     license='MIT',
     description="paquete gian de insertar data dba",
